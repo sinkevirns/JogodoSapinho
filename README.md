@@ -27,7 +27,7 @@ cd jogo-do-sapo
 
 Execute o código: O jogo está implementado em Python. Para rodá-lo, basta executar o arquivo principal game.py:
 ```bash 
-python game.py
+python main.py
 ```
 
 ## Interação do Jogo
@@ -44,3 +44,8 @@ python game.py
 ## Dependências
 - Python 3.x
 - Nenhuma biblioteca externa é necessária.
+
+## Autores
+- Júlio
+- Luiz O.
+- Rafael S.
