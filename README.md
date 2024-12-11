@@ -1,4 +1,4 @@
-# Jogo do Sapo
+# Jogo do Sapinho
 
 ## Descrição
 Este é um jogo simples onde o jogador aposta em um sapo tentando atravessar uma estrada. A cada rodada, o jogador faz uma aposta e o sapo tenta atravessar a estrada. Se o sapo for atropelado por um caminhão, o jogador perde o valor da aposta. Se o sapo atravessar com sucesso, o jogador ganha uma recompensa baseada em quantas vezes o sapo já cruzou a estrada. O jogador pode continuar apostando até que o saldo seja zerado ou escolher parar a qualquer momento.
