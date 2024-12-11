@@ -25,7 +25,7 @@ git clone https://github.com/seu-usuario/jogo-do-sapo.git
 cd jogo-do-sapo
 ```
 
-Execute o código: O jogo está implementado em Python. Para rodá-lo, basta executar o arquivo principal game.py:
+Execute o código: O jogo está implementado em Python. Para rodá-lo, basta executar o arquivo principal main.py:
 ```bash 
 python main.py
 ```
